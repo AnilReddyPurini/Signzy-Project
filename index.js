@@ -37,7 +37,7 @@ function getPenPath() {
   }
 }
 
-
+---path is also different from others
 
 $grid.infiniteScroll({
   path: getPenPath,
